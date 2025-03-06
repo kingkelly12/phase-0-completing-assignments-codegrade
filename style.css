@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+}
+div{
+    background: white;
+    width: 700px;
+    margin: auto;
+    padding: 30px;
+    font-family: 'Helvetica Nue';
+}
+#main-header{
+    font-size: 22px;
+}
+.perspective-questions{
+    font-style: italic;
+}
